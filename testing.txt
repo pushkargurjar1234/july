@@ -1,1 +1,3 @@
 here i am checking the working of folder into git.
+so her it is working properly.
+now i can code and upload in git hub on daly basis.
