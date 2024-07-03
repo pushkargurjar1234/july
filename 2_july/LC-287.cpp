@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int search
+int search{};
 
 
 int main(){
