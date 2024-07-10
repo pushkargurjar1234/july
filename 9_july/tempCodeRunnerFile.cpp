@@ -1,1 +1,0 @@
-cout<<studentCount<<"\n";
